@@ -1,0 +1,37 @@
+_repo: Barbara-Hale-A-Doctor-s-Daughter_67077
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Foster, J. M. (Illustrator)
+    gutenberg_agent_id: '54053'
+    url: http://www.gutenberg.org/2009/agents/54053
+creator:
+  author:
+    agent_name: Garis, Lilian
+    aliases:
+    - Garis, Howard Roger, Mrs.
+    - Garis, Lillian
+    - Garis, Lilian C. McNamara
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '1754'
+    url: http://www.gutenberg.org/2009/agents/1754
+    wikipedia: https://en.wikipedia.org/wiki/Lilian_Garis
+description: ''
+gutenberg_issued: '2022-01-02'
+identifiers:
+  gutenberg: '67077'
+language: en
+pgterms:marc905: 20210928210530garis
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank, Sue Clark and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: United States :Grosset & Dunlap,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Barbara Hale: A Doctor''s Daughter'
+url: http://www.gutenberg.org/ebooks/67077
