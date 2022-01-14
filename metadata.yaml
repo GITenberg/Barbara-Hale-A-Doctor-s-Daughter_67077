@@ -5,6 +5,9 @@ contributor:
     agent_name: Foster, J. M. (Illustrator)
     gutenberg_agent_id: '54053'
     url: http://www.gutenberg.org/2009/agents/54053
+covers:
+- cover_type: archival
+  image_path: 67077-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Lilian
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1754
     wikipedia: https://en.wikipedia.org/wiki/Lilian_Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67077#Barbara-Hale-A-Doctor-s-Daughter
 gutenberg_issued: '2022-01-02'
 identifiers:
   gutenberg: '67077'
